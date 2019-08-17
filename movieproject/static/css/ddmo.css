@@ -1,0 +1,14 @@
+body{
+  background: url(https://tse1.mm.bing.net/th?id=OIP.wH12jX62nLANWIVRagMu_QHaEK&pid=Api&rs=1&c=1&qlt=95&w=204&h=114);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.continer .jumbotron{
+  margin-top: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background: orange;
+  color:white;
+  font-family: 'Acme', sans-serif;
+  font-family: 'Slabo 27px', serif;
+}

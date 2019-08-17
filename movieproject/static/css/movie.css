@@ -1,0 +1,26 @@
+body{
+  background: url(https://tse1.mm.bing.net/th?id=OIP.wH12jX62nLANWIVRagMu_QHaEK&pid=Api&rs=1&c=1&qlt=95&w=204&h=114);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  color: red;
+  font-size: 40px;
+}
+table,thead{
+border: 2px solid white;
+font-size: 30px;
+}
+th{
+  border: 2px solid white;
+  background:yellow;
+  color: blue;
+}
+tr{
+  border: 2px solid white;
+  background: red;
+  color: white;
+}
+td{
+  border: 2px solid white;
+}
